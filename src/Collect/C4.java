@@ -5,8 +5,6 @@ import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
 
-import Collect.C4.Employee;
-
 public class C4
 {
 	static class Employee

@@ -7,7 +7,7 @@ public class F2
 {
 	public static void main(String[] args)
 	{
-		List<String> list =Arrays.asList("Saurabh", "Aniket", "Ram", "Amol");
+		List<String> list =Arrays.asList("Saurabh", "Sham", "Ram", "Amol");
 
 		list.stream()
 		.filter( n -> n.startsWith("A"))

@@ -5,8 +5,6 @@ import java.util.Comparator;
 import java.util.List;
 import java.util.Optional;
 
-import MinMax.M2.Employee;
-
 public class M2
 {
 	static class Employee
