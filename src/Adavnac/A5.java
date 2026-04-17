@@ -17,6 +17,9 @@ public class A5
 		    		  .collect(Collectors.groupingBy(Function.identity(), Collectors.counting()));
 		      
 		      System.out.println(collect);
+		      
+		      
+		      
 		
 	}
 
